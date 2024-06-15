@@ -11,7 +11,10 @@ interface Inputs {
 function Contact() {
   const { register, handleSubmit } = useForm<Inputs>();
   const onSubmit: SubmitHandler<Inputs> = (formData) => {
-    window.location.href = `mailto:akdevjs@gmail?subject=${formData.subject}&body=Hi, My name is ${formData.name}. ${formData.message}. \n(${formData.email})`;
+    const subject = encodeURIComponent(formData.subject);
+    const body = encodeURIComponent(`Hi,\n\nMy name is ${formData.name}.\n\n${formData.message}\n\n(${formData.email})`);
+
+    window.location.href = `mailto:hassan.itdev12@gmail.com?subject=${subject}&body=${body}`;
   };
   return (
     <SectionWrapper heading="Contact">
@@ -24,15 +27,15 @@ function Contact() {
         <div className="space-y-2 sm:space-y-5 md:space-y-10">
           <div className="flex item-center space-x-5 justify-center">
             <PhoneIcon className="text-[#F7AB0A] h-7 w-7 animate-pulse " />
-            <p>+92 341 4307524</p>
+            <p>+92 310 0552936</p>
           </div>
           <div className="flex item-center space-x-5 justify-center">
             <EnvelopeIcon className="text-[#F7AB0A] h-7 w-7 animate-pulse " />
-            <p>akdevjs@outlook.com</p>
+            <p>hassan.itdev12@gmail.com</p>
           </div>
           <div className="flex item-center space-x-5 justify-center">
             <MapPinIcon className="text-[#F7AB0A] h-7 w-7 animate-pulse " />
-            <p>Kahuta, Rwp, Pakistan</p>
+            <p>KPK, Pakistan</p>
           </div>
         </div>
 
