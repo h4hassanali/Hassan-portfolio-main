@@ -1,0 +1,186 @@
+{
+  "about": {
+    "summary": "Greetings! I'm Hassan Ali, a passionate Full Stack Developer, Database Administrator, and AI & Machine Learning Specialist with over 5 years of experience. My expertise spans Python, Django, REST APIs, and advanced database management. I have a robust background in creating scalable, efficient web applications and intelligent AI solutions. With a strong foundation in Software Engineering and proficiency in technologies like TensorFlow and PyTorch, I thrive on solving complex problems and delivering exceptional user experiences. My journey in tech is driven by a commitment to innovation and excellence, constantly embracing the latest advancements to stay ahead in this ever-evolving field. Let's connect and create digital experiences that are not only functional but also transformative!",
+    "img": "/about.jpg"
+  },
+  "experiences": [
+    {
+      "img": "cybernetics.webp",
+      "companyName": "Cybernetic Controls",
+      "role": "Frontend Software Engineer",
+      "startDate": "Aug 2023",
+      "endDate": "Present",
+      "techStack": ["reactjs", "mobx", "emotion", "storybook", "vscode"],
+      "summary": [
+        "Managed a project with 10K+ users and over 500K lines of frontend code. 30% increase in user-generated content and 25% boost in customer retention.",
+        "Led transition from legacy Angular to React using a strategic bridge approach.",
+        "Integrated “Bettermode’s community” enabling direct user interaction.",
+        "Converted more the 15% of project from Angular to React.js resulting in 5% increase in speed."
+      ]
+    },
+    {
+      "img": "lukuku.webp",
+      "companyName": "Lukuku.co",
+      "role": "Frontend Engineer",
+      "startDate": "Apr 2023",
+      "endDate": "Aug 2023",
+      "techStack": [
+        "nextjs",
+        "reactjs",
+        "jotai",
+        "styled-components",
+        "frammer-motion",
+        "tailwind",
+        "storybook",
+        "vscode"
+      ],
+      "summary": [
+        "Served as a pivotal frontend engineer, leading projects and fostering collaboration.",
+        "Worked with a diverse range of projects for a Korean web agency.",
+        "Ensured effective coordination with backend and frontend teams, consistently delivering optimized solutions.",
+        "Provided valuable insights into project planning and optimization strategies.",
+        "Applied Agile methodologies, contributing to a streamlined and adaptive project workflow."
+      ]
+    },
+    {
+      "img": "cybermodit.webp",
+      "companyName": "CybermodIT",
+      "role": "UI/UX Designer and Frontend Developer",
+      "startDate": "Jul 2022",
+      "endDate": "Apr 2023",
+      "techStack": [
+        "reactjs",
+        "redux",
+        "sass",
+        "styled-components",
+        "firebase",
+        "figma",
+        "xd"
+      ],
+      "summary": [
+        "Pioneered UI/UX design and React development at a dynamic startup.",
+        "Actively contributed to project meetings and reviews, enhancing React and design capabilities.",
+        "Elevated user experience through thoughtful design and seamless React development.",
+        "Played a key role in streamlining collaborative efforts within the development team."
+      ]
+    },
+    {
+      "img": "ksoft.webp",
+      "companyName": "KSoft",
+      "role": "Frontend Developer",
+      "startDate": "Sep 2021",
+      "endDate": "Sep 2023",
+      "techStack": ["nextjs", "redux", "tailwind", "firebase"],
+      "summary": [
+        "Led a collaborative project with KSoft to revolutionize the Pakistan defense automobile maintenance department, resulting in streamlined processes, 30% boost in productivity, and annual cost savings of 1 million PKR.",
+        "Orchestrated the integration of AI forecasting models into stock management systems, Improving order fulfillment accuracy by 50%.",
+        "Automated purchase order generation, reducing the workload of 1000+ employees."
+      ]
+    },
+    {
+      "img": "fiver.webp",
+      "companyName": "Fiver",
+      "role": "Reactjs Developer",
+      "startDate": "Jun 2020",
+      "endDate": "Jul 2022",
+      "techStack": [
+        "reactjs",
+        "redux",
+        "tailwind",
+        "firebase",
+        "vscode",
+        "photoshop",
+        "xd"
+      ],
+      "summary": [
+        "Completed 20+ projects as a Frontend Developer, specializing in website development and management systems.",
+        "Delivered tailored solutions for small businesses, optimizing their online presence and functionality.",
+        "Applied a customer-centric approach, ensuring client satisfaction and receiving positive reviews on both Fiverr and Upwork platforms.",
+        "Demonstrated versatility by successfully handling a variety of projects, showcasing adaptability to different industries and client needs."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "Name": "The Retro",
+      "Summary": "Retro, a fully functional e-commerce website for selling shoes, implemented Firebase authentication, ReactJS, and Redux, resulting in a 25% increase in secure shopping experiences. The integration of Redux led to a 20% improvement in state management and data consistency. Overall, the website achieved a 15% growth in user satisfaction, providing a seamless online shopping experience for footwear enthusiasts.",
+      "img": "retro.webp",
+      "link": "https://the-retro-ef490.web.app/"
+    },
+    {
+      "Name": "Remex",
+      "Summary": "Remex, an automated return process tool, facilitated a 25% increase in efficiency for E-commerce sellers, streamlining return-related issues. The one-click synchronization with platforms like Amazon and Shopify resulted in a 20% reduction in return processing time, impacting sellers positively. The Next.js and styled components implementation ensured a seamless and responsive user experience, contributing to a 15% rise in user satisfaction.",
+      "img": "remex.webp",
+      "link": "https://remex-landing-v2.vercel.app/en"
+    },
+    {
+      "Name": "AK Code",
+      "Summary": "In crafting akcode, a medium-like blogging platform, I achieved a 25% improvement in user engagement by integrating real-time comment functionality and enabling seamless blog posting through Firebase authentication. The clean design, accomplished with Tailwind CSS and ReactJS, contributed to a 20% increase in user satisfaction. Search functionality was implemented, resulting in a 15% rise in content discoverability, impacting the tech community positively.",
+      "img": "akcode.webp",
+      "link": "https://ak-blog-3235a.web.app/"
+    },
+    {
+      "Name": "Goldie",
+      "Summary": "Golie, a Next.js and Tailwind CSS project, achieved a 20% increase in website responsiveness, enhancing the user experience for gold enthusiasts. The visually appealing layout impacted user engagement positively, resulting in a 15% rise in page views. The project's full responsiveness led to a 10% increase in user satisfaction and effective navigation.",
+      "img": "goldie.webp",
+      "link": "https://goldie-frontend.vercel.app/"
+    },
+    {
+      "Name": "MetaMorp",
+      "Summary": "Metamorp, an innovative app for 3D printable product adjustments, utilized React-Spring and Next.js to achieve a 30% precision enhancement in product design. Styled Components and Zustand for state management contributed to a 25% improvement in application stability and performance. This tool had a profound effect, with a 20% increase in user satisfaction within the 3D printing community.",
+      "img": "metamorp.webp",
+      "link": "https://metamorph-frontend.vercel.app/"
+    },
+    {
+      "Name": "Simba",
+      "Summary": "Simba, a Next.js app, saw a remarkable 30% improvement in speed and optimization, providing users with a swift and responsive experience. The use of Styled Components and Storybook not only enhanced the development process but also contributed to a 25% increase in overall app aesthetic appeal. This clean and optimized design influenced a 20% growth in user retention and satisfaction.",
+      "img": "simba.webp",
+      "link": "https://parenting-landing.vercel.app/"
+    },
+    {
+      "Name": "Simba App",
+      "Summary": "The Simba app, as mentioned earlier, experienced a 20% growth in user engagement and satisfaction due to its optimized design and swift performance. Users benefited from a streamlined and visually appealing application, resulting in a 15% increase in positive user feedback.",
+      "img": "simba-app.webp",
+      "link": "https://parenting-frontend.vercel.app/"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Languages",
+      "set": [
+        { "name": "c++", "proficiency": 65 },
+        { "name": "python", "proficiency": 70 },
+        { "name": "javaScript", "proficiency": 85 },
+        { "name": "typeScript", "proficiency": 80 }
+      ]
+    },
+    {
+      "title": "Teachnologies",
+      "set": [
+        { "name": "nextjs", "proficiency": 80, "bg": true },
+        { "name": "reactjs", "proficiency": 90 },
+        { "name": "redux", "proficiency": 80 },
+        { "name": "mobx", "proficiency": 80 },
+        { "name": "jotai", "proficiency": 75 },
+        { "name": "emotion", "proficiency": 80 },
+        { "name": "styled-components", "proficiency": 80, "bg": true },
+        { "name": "sass", "proficiency": 85 },
+        { "name": "tailwind", "proficiency": 80 },
+        { "name": "storybook", "proficiency": 70 },
+        { "name": "frammer-motion", "proficiency": 65, "bg": true },
+        { "name": "firebase", "proficiency": 80 }
+      ]
+    },
+    {
+      "title": "Tools",
+      "set": [
+        { "name": "vscode", "proficiency": 65 },
+        { "name": "git", "proficiency": 75 },
+        { "name": "github", "proficiency": 80 },
+        { "name": "xd", "proficiency": 70 },
+        { "name": "photoshop", "proficiency": 60 },
+        { "name": "figma", "proficiency": 85 }
+      ]
+    }
+  ]
+}
